@@ -103,7 +103,7 @@ const App = () => {
               </Link>
             </li>
           </div> */}
-        )}
+        )
       </nav>
 
       <div className="container mt-3">

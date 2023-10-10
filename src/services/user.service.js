@@ -3,7 +3,8 @@ import React from 'react'
 import authHeader from './auth-header';
 import Api from '../api/Api';
 
-const API_URL_TEST = 'https://app-1ade3633-602d-485f-9d0d-0aa4ea643685.cleverapps.io';
+const API_URL_TEST = "https://app-7f759be0-25c5-45d1-a119-4352bb6b296c.cleverapps.io";
+//const API_URL_TEST = 'https://app-1ade3633-602d-485f-9d0d-0aa4ea643685.cleverapps.io';
 //const API_URL_TEST = 'http://localhost:8080';
 //const API_URL = Api.BASE_URL + '/api/test/';
 
